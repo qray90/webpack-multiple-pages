@@ -1,0 +1,9 @@
+.image-container {
+  height: 161px;
+  width: 167px;
+  background: url('../../assets/images/1.png');
+}
+
+.com-b-title {
+  color: blue;
+}
